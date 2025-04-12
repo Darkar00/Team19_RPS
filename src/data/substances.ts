@@ -170,7 +170,7 @@ export const substances: Substance[] = [
     id: 'nicotine',
     name: 'Cigarettes',
     icon: 'cigarette',
-    description: 'A stimulant found in tobacco that causes addiction and affects the brain, heart, and other organs.',
+    description: 'Contain a stimulant called nicotine that causes addiction and affects the brain, heart, and other organs.',
     effects: [
       {
         id: 'nicotine-1',
