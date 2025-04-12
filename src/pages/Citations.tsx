@@ -35,7 +35,7 @@ const Citations = () => {
     {
       substance: 'Tobacco',
       source: 'Centers for Disease Control and Prevention',
-      url: 'https://www.cdc.gov/tobacco/data_statistics/fact_sheets/health_effects/effects_cig_smoking/index.htm',
+      url: 'https://www.cdc.gov/tobacco/about/?CDC_AAref_Val=https://www.cdc.gov/tobacco/data_statistics/fact_sheets/health_effects/effects_cig_smoking/index.htm',
       description: 'Research on health effects of smoking and tobacco use'
     },
     {
