@@ -64,8 +64,8 @@ const Citations = () => {
     },
     {
       substance: 'Tomato Soup',
-      source: 'Harvard T.H. Chan School of Public Health',
-      url: 'https://www.hsph.harvard.edu/nutritionsource/food-features/tomatoes/',
+      source: 'Healthline Article (With More Citations)',
+      url: 'https://www.healthline.com/nutrition/tomato-soup-benefits#1-Highly-nutritious',
       description: 'Nutritional information about tomatoes and tomato products'
     }
   ];
