@@ -24,7 +24,7 @@ const Citations = () => {
       substance: 'Alcohol',
       source: 'National Institute on Alcohol Abuse and Alcoholism',
       url: 'https://www.niaaa.nih.gov/alcohols-effects-health',
-      description: 'Research on alcohol's effects on the body and health'
+      description: "Research on alcohol's effects on the body and health"
     },
     {
       substance: 'Cannabis',
