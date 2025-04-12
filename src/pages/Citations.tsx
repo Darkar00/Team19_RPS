@@ -46,8 +46,8 @@ const Citations = () => {
     },
     {
       substance: 'Opioids',
-      source: 'U.S. Department of Health & Human Services',
-      url: 'https://www.hhs.gov/opioids/about-the-epidemic/index.html',
+      source: 'National Institute on Drug Abuse',
+      url: 'https://nida.nih.gov/research-topics/opioids',
       description: 'Information about opioid use and health effects'
     },
     {
