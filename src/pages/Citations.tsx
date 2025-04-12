@@ -15,10 +15,10 @@ import { substances } from '@/data/substances';
 const Citations = () => {
   const citations = [
     {
-      substance: 'Coffee',
-      source: 'National Coffee Association',
-      url: 'https://www.ncausa.org/About-Coffee/Coffee-and-Health',
-      description: 'Information about coffee health effects and consumption'
+      substance: 'Caffeine',
+      source: 'Cleveland Clinic',
+      url: 'https://health.clevelandclinic.org/caffeine',
+      description: 'Information about caffeine health effects and consumption'
     },
     {
       substance: 'Alcohol',
